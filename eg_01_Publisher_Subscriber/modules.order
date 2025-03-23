@@ -1,1 +1,1 @@
-/home/alireza/Documents/EmbeddedLinux/Kernel_MiniProject_Collection/eg_01_Publisher_Subscriber/pubsub.o
+/home/alireza/Documents/EmbeddedLinux/Kernel_MiniProject_Collection/Files/eg_01_Publisher_Subscriber/pubsub.o

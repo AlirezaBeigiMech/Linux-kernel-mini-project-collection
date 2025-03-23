@@ -1,0 +1,1 @@
+savedcmd_/home/alireza/Documents/EmbeddedLinux/Kernel_MiniProject_Collection/eg_01_Publisher_Subscriber/pubsub.mod := printf '%s\n'   pubsub.o | awk '!x[$$0]++ { print("/home/alireza/Documents/EmbeddedLinux/Kernel_MiniProject_Collection/eg_01_Publisher_Subscriber/"$$0) }' > /home/alireza/Documents/EmbeddedLinux/Kernel_MiniProject_Collection/eg_01_Publisher_Subscriber/pubsub.mod
